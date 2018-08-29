@@ -7,8 +7,7 @@ public class ExceptionHandling {
         try {
             int result = password / 0;
             System.out.println(result);
-        }
-
+        }//git
         catch (Exception ex) {
             System.out.println("Please try again with correct password ");
         }
