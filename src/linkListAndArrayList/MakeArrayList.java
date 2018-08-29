@@ -22,9 +22,6 @@ public class MakeArrayList {
         ((LinkedList<Integer>) list).addFirst(12);// add 12 at the beginning
         for (Integer st: list)
             System.out.println(st);
-
-
-
         }
     }
 
