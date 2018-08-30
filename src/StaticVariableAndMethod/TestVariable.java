@@ -1,3 +1,5 @@
+package StaticVariableAndMethod;
+
 public class TestVariable {
     public static void main(String[] args) {
 
