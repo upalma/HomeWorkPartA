@@ -15,32 +15,34 @@
     <session id="-1461121896">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.5" value="2" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.5" value="3" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="26" />
+          <entry key="java" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="26" />
+          <entry key="JAVA" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="12" />
-          <entry key="java" value="3918" />
+          <entry key="java" value="4098" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3918" />
+          <entry key="JAVA" value="4098" />
           <entry key="PLAIN_TEXT" value="12" />
         </counts>
       </usages-collector>
@@ -48,29 +50,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/scanner/ScannerWithIf_Else.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/scanner/Grade.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Random/UseRandom.java">
+        <entry file="file://$PROJECT_DIR$/src/fileReaderBufferReader/FileReader_BufferReader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+            <state relative-caret-position="334">
+              <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -112,14 +99,16 @@
         <option value="$PROJECT_DIR$/src/scanner/Grade.java" />
         <option value="$PROJECT_DIR$/src/Random.java" />
         <option value="$PROJECT_DIR$/src/Random/UseRandom.java" />
+        <option value="$PROJECT_DIR$/src/StaticVariableAndMethod/MakeStaticVariable.java" />
+        <option value="$PROJECT_DIR$/src/fileReaderBufferReader/FileReader_BufferReader.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="78" />
-    <option name="y" value="23" />
-    <option name="width" value="1137" />
-    <option name="height" value="824" />
+    <option name="x" value="314" />
+    <option name="y" value="22" />
+    <option name="width" value="1126" />
+    <option name="height" value="822" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -127,7 +116,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -140,41 +129,23 @@
               <item name="Homework" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Homework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Homework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="HashMap" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Homework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Homework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="loops" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Homework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Homework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="scanner" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Homework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Homework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Singleton" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535647707202" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="SearchEverywhereHistoryKey" value="mon&#9;ACTION&#9;ActivateMongoExplorerToolWindow&#10;mo&#9;ACTION&#9;ActivateMongoExplorerToolWindow&#10;plugins&#9;ACTION&#9;WelcomeScreen.Plugins&#10;pl&#9;PSI&#9;JAVA://jdk.tools.jlink.resources.plugins" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535688192831" />
+    <property name="settings.editor.selected.configurable" value="preferences.mongoOptions" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/StaticVariableAndMethod" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -188,13 +159,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.UseRandom (1)">
-    <configuration name="DoWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loops.DoWhileLoop" />
+  <component name="RunManager" selected="Application.FileReader_BufferReader">
+    <configuration name="FileReader_BufferReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fileReaderBufferReader.FileReader_BufferReader" />
       <module name="Homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loops.*" />
+          <option name="PATTERN" value="fileReaderBufferReader.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -249,19 +220,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.DoWhileLoop" />
       <item itemvalue="Application.ScannerWithIf_Else" />
       <item itemvalue="Application.Grade" />
       <item itemvalue="Application.UseRandom" />
       <item itemvalue="Application.UseRandom (1)" />
+      <item itemvalue="Application.FileReader_BufferReader" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FileReader_BufferReader" />
         <item itemvalue="Application.UseRandom (1)" />
         <item itemvalue="Application.UseRandom" />
         <item itemvalue="Application.Grade" />
         <item itemvalue="Application.ScannerWithIf_Else" />
-        <item itemvalue="Application.DoWhileLoop" />
       </list>
     </recent_temporary>
   </component>
@@ -279,10 +250,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="314" y="22" width="1126" height="822" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3219557" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -290,29 +261,41 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24096386" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23972602" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.33012047" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3739726" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32771084" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32739726" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Mongo Explorer" order="6" />
+      <window_info anchor="right" id="Mongo Explorer" order="6" weight="0.44095942" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/jdk.jlink/jdk/tools/jlink/resources/plugins.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/StaticVariable/StatticClass.java" />
@@ -330,24 +313,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MakeStaticVariable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/linkListAndArrayList/MakingLikList.java" />
-    <entry file="file://$PROJECT_DIR$/src/TestVariable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/Homework/AdvancedComputer/src/Computer.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestVariable.java" />
+    <entry file="file://$USER_HOME$/Desktop/Homework/AdvancedComputer/src/Computer.java" />
     <entry file="file://$PROJECT_DIR$/src/linkListAndArrayList/MakeLinkList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -408,9 +376,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -428,31 +393,60 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Random.java" />
+    <entry file="file://$PROJECT_DIR$/src/MakeStaticVariable.java" />
     <entry file="file://$PROJECT_DIR$/src/scanner/ScannerWithIf_Else.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Random.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/scanner/Grade.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
-          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Random/UseRandom.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        <state relative-caret-position="399">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StaticVariableAndMethod/TestVariable.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/jdk.jlink/jdk/tools/jlink/resources/plugins.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StaticVariableAndMethod/MakeStaticVariable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/MafiVaiNote/CoreJavaDay7/src/fileoperation/ReadFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="35" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fileReaderBufferReader/FileReader_BufferReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
